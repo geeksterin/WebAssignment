@@ -3,7 +3,7 @@
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | JS Basics  | [HTML-RESUME](./01-JS-BASICS/)                     |             |
+| 1     | JS Basics  | [JS BASIC Question List](./01-JS-BASICS/)                     |             |
 
 
 
