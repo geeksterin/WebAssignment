@@ -26,7 +26,7 @@
 | 11    | CSS   | [CSS-PSEUDO-ELEMETS](./03-CSS/211%20CSS%20-%20Pseudo%20Elements/) |             |
 | 12    | CSS   | [CSS-FINAL-PROJECTS](./03-CSS/212%20Final%20Projects/)            |             |
 
-# JS-BASCIS
+# ADVANCED-JS
 
 | S No. | Topic | Assignment                                                                | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------- | ----------- |
