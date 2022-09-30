@@ -7,9 +7,7 @@ This is your assignment 1, where you have to make your resume
 
 
 ## Points to Remember
-- Create index.html file in this folder
+- Create index.html file in ```./Resume``` folder
 - Create the above resume using HTML only
-- Host the Resume and provide the link in this README file
-
-HOSTED LINK :  
+- Host the Resume and provide the link in this README file 
 

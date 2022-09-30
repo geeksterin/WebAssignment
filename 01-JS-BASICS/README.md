@@ -1,4 +1,8 @@
-
+## How to solve the assignment
+- Most of the link will redirect you to FreeCodeCamp 
+- Please fill the FreeCodeCamp Id <Form>
+- Results will be evaluated automatically after form submition
+- Please make sure all the questions must be save in ```  ./JSQuestions ```
 
 | Question No | Question | 
 |--|--| 
