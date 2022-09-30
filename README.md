@@ -1,4 +1,12 @@
 ## Assignments
+
+How to use this repo
+- Fork the Repository
+- Host the same Repoitory on Github Pages
+- Clone Repository To Local Machine
+
+
+
 # JS Basics
 
 | S No. | Topic | Assignment                                              | Hosted Link |
