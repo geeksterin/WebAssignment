@@ -1,10 +1,12 @@
 ## Assignments
 
-How to use this repo
+How to use this repository
 - Fork the Repository
 - Host the same Repoitory on Github Pages
-- Clone Repository To Local Machine
-
+- Check if the repo is working
+- Clone Repository to Local Machine
+- Make some change and enjoy your first website
+- Fill the given form - [Github repo, Freecodecampid ]
 
 
 # JS Basics
