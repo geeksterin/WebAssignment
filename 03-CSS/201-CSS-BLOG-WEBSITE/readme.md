@@ -16,11 +16,3 @@ Figma Link : [Medium Page Figma](https://www.figma.com/file/SdIM8MBoUSkNFw7Oyqfb
 - Create the above project
 - Host the project and provide the link in this README file
 
-HOSTED LINK :
-
-<hr>
-<hr>
-
-## Homework Projects
-
-### Project 1

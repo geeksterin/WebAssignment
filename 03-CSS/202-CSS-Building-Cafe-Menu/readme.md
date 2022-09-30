@@ -9,5 +9,3 @@ Submission Link : [Building Cafe Menu](https://www.freecodecamp.org/learn/2022/r
 - Complete the project on freecodecamp
 - Copy the code to this repository
 - Host the project and provide the link in this README file
-
-HOSTED LINK :  

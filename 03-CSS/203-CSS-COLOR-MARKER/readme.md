@@ -9,5 +9,3 @@ Figma Link : [Color Markers](https://www.freecodecamp.org/learn/2022/responsive-
 - Complete the project on freecodecamp
 - Copy the code to this repository
 - Host the project and provide the link in this README file
-
-HOSTED LINK :  
