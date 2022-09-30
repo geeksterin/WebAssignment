@@ -1,4 +1,4 @@
-# Assignment 2
+# Assignment 1
 This is your assignment 1, where you have to make your resume
 
 ## End Project view
