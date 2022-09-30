@@ -1,6 +1,7 @@
 ## Assignments
 
 How to use this repository
+
 - Fork the Repository
 - Host the same Repoitory on Github Pages
 - Check if the repo is working
@@ -8,14 +9,18 @@ How to use this repository
 - Make some change and enjoy your first website
 - Fill the given form - [Github repo, Freecodecampid ]
 
+# git
+
+| S No. | Topic | Assignment                                                | Hosted Link |
+| ----- | ----- | --------------------------------------------------------- | ----------- |
+| 1     | GIT   | [COMMANDLINE](./00-Git/GIT-101-CommandLine%20Assignment/) |
+| 2     | GIT   | [GIT-PRACTICE](./00-Git/GIT-102-GIT-PRACTICE/)            |             |
 
 # JS Basics
 
-| S No. | Topic | Assignment                                              | Hosted Link |
-| ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | JS Basics  | [JS BASIC Question List](./01-JS-BASICS/)                     |             |
-
-
+| S No. | Topic     | Assignment                                | Hosted Link |
+| ----- | --------- | ----------------------------------------- | ----------- |
+| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |             |
 
 # HTML
 
