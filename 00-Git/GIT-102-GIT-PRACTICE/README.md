@@ -15,6 +15,7 @@
 - Host the repository on github pages
 
 # Git Basics Exercises - 2
-- Fork a website - https://github.com/ashutosh1919/masterPortfolio
-- Clone that website
+- Fork a website - https://github.com/ritikmasand/portfolio
+- Clone the website
 - Host on github pages
+- Add the link to [README.md](../../README.md) hosted link section

@@ -7,14 +7,14 @@ How to use this repository
 - Check if the repo is working
 - Clone Repository to Local Machine
 - Make some change and enjoy your first website
-- Fill the given form - [Github repo, Freecodecampid ]
+- Fill the given form - [Github repo, Free Code Camp]
 
-# git
+# Git
 
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
-| 1     | GIT   | [COMMANDLINE](./00-Git/GIT-101-CommandLine%20Assignment/) |
-| 2     | GIT   | [GIT-PRACTICE](./00-Git/GIT-102-GIT-PRACTICE/)            |             |
+| 1     | GIT   | [COMMAND LINE](./00-Git/GIT-101-CommandLine%20Assignment/) | NA
+| 2     | GIT   | [GIT PRACTICE](./00-Git/GIT-102-GIT-PRACTICE/)            |             |
 
 # JS Basics
 
@@ -26,18 +26,18 @@ How to use this repository
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | HTML  | [HTML-RESUME](./02-HTML/101-HTML-RESUME)                |             |
-| 2     | HTML  | [HTML-FORM](./02-HTML/102-HTML-FORM/)                   |             |
-| 3     | HTML  | [HTML-PHOTO-CAT-APP](./02-HTML/103-HTML-Photo-Cat-App/) |             |
-| 4     | HTML  | [HTML-TRIBUTE-PAGE](./02-HTML/104-HTML-TRIBUTE-PAGE/)   |             |
+| 1     | HTML  | [HTML RESUME](./02-HTML/101-HTML-RESUME)                |             |
+| 2     | HTML  | [HTML FORM](./02-HTML/102-HTML-FORM/)                   |             |
+| 3     | HTML  | [HTML PHOTO CAT APP](./02-HTML/103-HTML-Photo-Cat-App/) |             |
+| 4     | HTML  | [HTML TRIBUTE PAGE](./02-HTML/104-HTML-TRIBUTE-PAGE/)   |             |
 
 # CSS
 
 | S No. | Topic | Assignment                                                        | Hosted Link |
 | ----- | ----- | ----------------------------------------------------------------- | ----------- |
-| 1     | CSS   | [CSS-BLOG-WEBSITE](./03-CSS/201-CSS-BLOG-WEBSITE/)                |             |
-| 2     | CSS   | [CSS-BUILDING-CAFE-MENU](./03-CSS/202-CSS-Building-Cafe-Menu/)    |             |
-| 3     | CSS   | [CSS-COLOR-MAKER](./03-CSS/203-CSS-COLOR-MARKER/)                 |             |
+| 1     | CSS   | [CSS BLOG WEBSITE](./03-CSS/201-CSS-BLOG-WEBSITE/)                |             |
+| 2     | CSS   | [CSS BUILDING CAFE MENU](./03-CSS/202-CSS-Building-Cafe-Menu/)    |             |
+| 3     | CSS   | [CSS COLOR MAKER](./03-CSS/203-CSS-COLOR-MARKER/)                 |             |
 | 4     | CSS   | [CSS-BUILDING-CAFE-MENU](./03-CSS/204-CSS-COLOR/)                 |             |
 | 5     | CSS   | [CSS-BOX-MODEL](./03-CSS/205-CSS-BOX-MODEL/)                      |             |
 | 6     | CSS   | [CSS-UNITS](./03-CSS/206-CSS%20Units/)                            |             |
