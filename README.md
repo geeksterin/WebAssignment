@@ -18,9 +18,9 @@ How to use this repository
 
 # JS Basics
 
-| S No. | Topic     | Assignment                                | Hosted Link |
-| ----- | --------- | ----------------------------------------- | ----------- |
-| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |             |
+| S No. | Topic     | Assignment                                | FreeCodeCamp Id |
+| ----- | --------- | ----------------------------------------- | --------------- |
+| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |                 |
 
 # HTML
 
@@ -38,15 +38,13 @@ How to use this repository
 | 1     | CSS   | [CSS BLOG WEBSITE](./03-CSS/201-CSS-BLOG-WEBSITE/)                |             |
 | 2     | CSS   | [CSS BUILDING CAFE MENU](./03-CSS/202-CSS-Building-Cafe-Menu/)    |             |
 | 3     | CSS   | [CSS COLOR MAKER](./03-CSS/203-CSS-COLOR-MARKER/)                 |             |
-| 4     | CSS   | [CSS-BUILDING-CAFE-MENU](./03-CSS/204-CSS-COLOR/)                 |             |
-| 5     | CSS   | [CSS-BOX-MODEL](./03-CSS/205-CSS-BOX-MODEL/)                      |             |
-| 6     | CSS   | [CSS-UNITS](./03-CSS/206-CSS%20Units/)                            |             |
-| 7     | CSS   | [CSS-FLEXBOX](./03-CSS/207%20CSS%20Flexbox/)                      |             |
-| 8     | CSS   | [CSS-GRID](./03-CSS/208%20CSS%20Grid/)                            |             |
-| 9     | CSS   | [CSS-SELECTORS](./03-CSS/209%20Advance%20CSS%20Selectors/)        |             |
-| 10    | CSS   | [CSS-PSEUDO-CLASSES](./03-CSS/210%20CSS%20Pseudo%20Classes/)      |             |
-| 11    | CSS   | [CSS-PSEUDO-ELEMETS](./03-CSS/211%20CSS%20-%20Pseudo%20Elements/) |             |
-| 12    | CSS   | [CSS-FINAL-PROJECTS](./03-CSS/212%20Final%20Projects/)            |             |
+| 4     | CSS   | [CSS-BOX-MODEL](./03-CSS/204-CSS-BOX-MODEL/)                      |             |
+| 5     | CSS   | [CSS-FLEXBOX](./03-CSS/205%20CSS%20Flexbox/)                      |             |
+| 6     | CSS   | [CSS-GRID](./03-CSS/206%20CSS%20Grid/)                            |             |
+| 7     | CSS   | [CSS-SELECTORS](./03-CSS/207%20Advance%20CSS%20Selectors/)        |             |
+| 8     | CSS   | [CSS-PSEUDO-CLASSES](./03-CSS/208%20CSS%20Pseudo%20Classes/)      |             |
+| 9     | CSS   | [CSS-PSEUDO-ELEMETS](./03-CSS/209%20CSS%20-%20Pseudo%20Elements/) |             |
+| 10    | CSS   | [CSS-FINAL-PROJECTS](./03-CSS/210%20Final%20Projects/)            |             |
 
 # ADVANCED-JS
 
