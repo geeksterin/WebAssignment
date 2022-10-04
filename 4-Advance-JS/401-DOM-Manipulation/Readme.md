@@ -1,4 +1,4 @@
-## Exercise: Level-1
+## Exercise: AdvanceJS-401-01
 
 1. You are given a DOM element
 
@@ -12,7 +12,7 @@ Your job is output what ever is typed in the input into the p tag.
 
 <hr>
 
-## Exercise: Level-2
+## Exercise: AdvanceJS-401-02
 
 2. You are given a list of DOM elements inside a
 
@@ -24,6 +24,9 @@ Your job is to give the first child a blue background, the last child a paleviol
 ![](./image/ex-2.png)
 
 <hr>
+
+
+## Exercise: AdvanceJS-401-03
 
 3. create an image slider using JavaScript
 

@@ -1,4 +1,4 @@
-## Exercises Level-1
+## Exercises AdvanceJS-402-01
 
 1. Let's perform some fun exercises and rename Google search to Geekster Search.
 
@@ -18,7 +18,7 @@
 
 <hr>
 
-## Exercises Level-2
+## Exercises AdvanceJS-402-02
 
 ### Create a random image feed
 

@@ -1,4 +1,4 @@
-# Mini Project: World Countries Data Visualization 2
+# Mini Project: World Countries Data Visualization 2 AdvanceJS-406-01
 
 <hr>
 
@@ -13,9 +13,9 @@ So go ahead and attempt this thing.
 
 <hr> 
 
-## Exercises
+## Exercises AdvanceJS-406
 
-### Exercise: Level 1
+### Exercise: AdvanceJS-406-02
 
 1. Visualize the countries array as follows
 
