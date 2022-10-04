@@ -17,7 +17,7 @@
 
 
 
-# GIT-001-02
+# GIT-002-02
 
 - Fork a repo - https://github.com/bitz1119/very-basic-resume
 - Clone the website
