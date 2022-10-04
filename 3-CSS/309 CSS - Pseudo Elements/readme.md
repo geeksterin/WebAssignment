@@ -1,4 +1,4 @@
-# Projects-309-01
+# Projects CSS-309-01
 
 ## Class Projects
 
@@ -11,3 +11,8 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-c
 <br>
 
 <img src="./images/Freecodecamp%20Website.png">
+
+
+# INSTRUCTIONS
+- Complete all above assignments in their respective folders
+- Html should be in ```index.html``` file and styling should be in ```style.css``` file

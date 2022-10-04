@@ -1,22 +1,22 @@
-# Projects-308-01
+# Projects CSS-308-01
 
 ## Class Projects
 
-#### Project 1
+#### Project CSS-308-01
 
 <p> Make these buttons which change their colors when we hover over them </p>
 <img src="images/Buttons_Colored.png">
 
 <hr>
 
-#### Project 2
+#### Project CSS-308-02
 
 <p> Make the button such that hovering on it opens up a dialog box under it. </p>
 <img src="images/button_dropdown.png">
 
 <hr>
 
-#### Project 3
+#### Project CSS-308-03
 
 <p> Make the website https://www.submerge.in/artists/nikhil-chinapa . The functionalities to be included in this website are shown in the video. 
 Remember the below points when you make this complete website. </p>
@@ -32,7 +32,7 @@ https://user-images.githubusercontent.com/113756096/192515299-1ba6c051-c653-436c
 <hr>
 <hr>
 
-## Homework Projects
+## Homework Projects CSS-308-04
 
 <p> Make the website https://insider.in/nikhil-chinapa-live-sep11-2022/event . The functionalities to be included in this website are shown in the video. 
 Remember the below points when you make this complete website. </p>
@@ -43,3 +43,8 @@ Remember the below points when you make this complete website. </p>
  </ol>
 
 https://user-images.githubusercontent.com/113756096/192515341-7b03452d-673e-4ea6-b641-84d800e90b83.mp4
+
+
+# INSTRUCTIONS
+- Complete all above assignments in their respective folders
+- Html should be in ```index.html``` file and styling should be in ```style.css``` file

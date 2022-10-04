@@ -1,20 +1,20 @@
-# Projects-306-01
+# Projects CSS-306
 
 ## Class Projects
 
-#### Project 1
+#### Project CSS-306-01
 
 <img src="images/Grid_Practice1.png">
 
 <hr>
 
-#### Project 2
+#### Project CSS-306-02
 
 Go on this link and solve the challenges https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-grid-by-building-a-magazine/step-1
 
 <hr>
 
-#### Project 3
+#### Project CSS-306-03
 
 <img src="images/Grid%20Based%20Website.png">
 
@@ -53,3 +53,8 @@ Go on this link and solve the challenges https://www.freecodecamp.org/learn/2022
 #### Project 4
 
 <img src="images/tiktok.png">
+
+
+# INSTRUCTIONS
+- Complete all above assignments in their respective folders
+- Html should be in ```index.html``` file and styling should be in ```style.css``` file

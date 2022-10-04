@@ -1,8 +1,8 @@
-# Projects-307-01
+# Projects CSS-307
 
 ## Class Projects
 
-#### Project 1
+#### Project CSS-307-01
 
 ![image](https://user-images.githubusercontent.com/113756096/192532080-ad708dbf-3ef5-4e0f-beaf-ee891079ed7e.png)
 
@@ -29,3 +29,8 @@ Please make sure to add the below functionalities to your webpage. </p>
 ## Additional Projects
 
 <img src="https://github.com/geeksterin/web-assignment/blob/main/02-CSS/210%20Advance%20CSS%20Selectors/images/Chaayos.png">
+
+
+# INSTRUCTIONS
+- Complete all above assignments in their respective folders
+- Html should be in ```index.html``` file and styling should be in ```style.css``` file

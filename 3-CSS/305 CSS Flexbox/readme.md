@@ -1,31 +1,31 @@
-# End Projects-305-01
+# End Projects CSS-305
 
 <hr>
 
 ## Class Projects
 
-#### Project 1
+#### Project CSS-305-01
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/step-21
 <img src="images/freecodecamp_flex.png">
 
-#### Project 2
+#### Project CSS-305-02
 
 <img src="images/Calculator.png">
 
-#### Project 3
+#### Project CSS-305-03
 
 <img src="images/Flex2_cards.png">
 
-#### Project 4
+#### Project CSS-305-04
 
 <img src="images/flipkart_navbar.png">
 
-#### Project 5
+#### Project CSS-305-05
 
 <img src="images/game.png.png">
 
-#### Project 6
+#### Project CSS-305-06
 
 <img src="images/linkedin_landingpage.png">
 
@@ -48,3 +48,8 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 #### Project 4
 
 <img src="images/almamaterstore.png">
+
+
+# INSTRUCTIONS
+- Complete all above assignments in their respective folders
+- Html should be in ```index.html``` file and styling should be in ```style.css``` file
