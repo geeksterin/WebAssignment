@@ -1,9 +1,9 @@
 ## Exercises AdvanceJS-402-01
 
-1. Let's perform some fun exercises and rename Google search to Geekster Search.
+1. Let's perform some fun exercises and rename Google search to Geekster Search using DOM Manipulation in console.
 
 ![](./image/geekster_search.png)
-** this is fun activity donot need to submit anywhere.
+
 
 <hr>
 
@@ -18,5 +18,8 @@
 
 ![](./image/geek.png)
 
+# Steps to submit your assignments
 
-<hr>
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 

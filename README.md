@@ -7,44 +7,44 @@ How to use this repository
 - Check if the repo is working
 - Clone Repository to Local Machine
 - Make some change and enjoy your first website
-- Fill the given form - [Github repo, Free Code Camp]
+
 # Git
 
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
-| 1     | GIT   | [COMMAND LINE](./00-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./00-Git/GIT-002-GIT-PRACTICE/)              |             |
-| 2     | GIT   | [GIT-002-02](./00-Git/GIT-002-GIT-PRACTICE/)              |             |
+| 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |             |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |             |
 
 # JS Basics
 
 | S No. | Topic     | Assignment                                | FreeCodeCamp Id | Question Done Till Now |
 | ----- | --------- | ----------------------------------------- | --------------- | --------------- |
-| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |                 |                 |
+| 1     | JS Basics | [JS BASIC Question List](./1-JS-BASICS/) |                 |                 |
 
 # HTML
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | HTML  | [HTML RESUME](./02-HTML/101-HTML-RESUME) HTML-201-01              |             |
-| 2     | HTML  | [HTML FORM](./02-HTML/102-HTML-FORM/)                   |             |
-| 3     | HTML  | [HTML PHOTO CAT APP](./02-HTML/103-HTML-Photo-Cat-App/) |             |
-| 4     | HTML  | [HTML TRIBUTE PAGE](./02-HTML/104-HTML-TRIBUTE-PAGE/)   |             |
+| 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |             |
+| 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |             |
+| 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01  |             |
+| 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-203-01   |             |
 
 # CSS
 
 | S No. | Topic | Assignment                                                        | Hosted Link |
 | ----- | ----- | ----------------------------------------------------------------- | ----------- |
-| 1     | CSS   | [CSS BLOG WEBSITE](./03-CSS/201-CSS-BLOG-WEBSITE/)                |             |
-| 2     | CSS   | [CSS BUILDING CAFE MENU](./03-CSS/202-CSS-Building-Cafe-Menu/)    |             |
-| 3     | CSS   | [CSS COLOR MAKER](./03-CSS/203-CSS-COLOR-MARKER/)                 |             |
-| 4     | CSS   | [CSS-BOX-MODEL](./03-CSS/204-CSS-BOX-MODEL/)                      |             |
-| 5     | CSS   | [CSS-FLEXBOX](./03-CSS/205%20CSS%20Flexbox/)                      |             |
-| 6     | CSS   | [CSS-GRID](./03-CSS/206%20CSS%20Grid/)                            |             |
-| 7     | CSS   | [CSS-SELECTORS](./03-CSS/207%20Advance%20CSS%20Selectors/)        |             |
-| 8     | CSS   | [CSS-PSEUDO-CLASSES](./03-CSS/208%20CSS%20Pseudo%20Classes/)      |             |
-| 9     | CSS   | [CSS-PSEUDO-ELEMETS](./03-CSS/209%20CSS%20-%20Pseudo%20Elements/) |             |
-| 10    | CSS   | [CSS-FINAL-PROJECTS](./03-CSS/210%20Final%20Projects/)            |             |
+| 1     | CSS   | [CSS BLOG WEBSITE](./3-CSS/301-CSS-BLOG-WEBSITE/)                |             |
+| 2     | CSS   | [CSS BUILDING CAFE MENU](./3-CSS/302-CSS-Building-Cafe-Menu/)    |             |
+| 3     | CSS   | [CSS COLOR MAKER](./3-CSS/303-CSS-COLOR-MARKER/)                 |             |
+| 4     | CSS   | [CSS-BOX-MODEL](./3-CSS/304-CSS-BOX-MODEL/)                      |             |
+| 5     | CSS   | [CSS-FLEXBOX](./3-CSS/305-CSS-Flexbox/)                      |             |
+| 6     | CSS   | [CSS-GRID](./3-CSS/306-CSS-Grid/)                            |             |
+| 7     | CSS   | [CSS-SELECTORS](./3-CSS/307-Advance-CSS-Selectors/)        |             |
+| 8     | CSS   | [CSS-PSEUDO-CLASSES](./3-CSS/308-CSS-Pseudo-Classes/)      |             |
+| 9     | CSS   | [CSS-PSEUDO-ELEMETS](./3-CSS/309-CSS-Pseudo-Elements/) |             |
+| 10    | CSS   | [CSS-FINAL-PROJECTS](./3-CSS/310-Final-MCT-Projects/)            |             |
 
 # ADVANCED-JS
 
