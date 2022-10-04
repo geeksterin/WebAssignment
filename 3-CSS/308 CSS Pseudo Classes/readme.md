@@ -1,22 +1,22 @@
-# Projects-308-01
+# Projects
 
 ## Class Projects
 
-#### Project 1
+#### Project 1-308-01
 
 <p> Make these buttons which change their colors when we hover over them </p>
 <img src="images/Buttons_Colored.png">
 
 <hr>
 
-#### Project 2
+#### Project 2-308-02
 
 <p> Make the button such that hovering on it opens up a dialog box under it. </p>
 <img src="images/button_dropdown.png">
 
 <hr>
 
-#### Project 3
+#### Project 3-308-03
 
 <p> Make the website https://www.submerge.in/artists/nikhil-chinapa . The functionalities to be included in this website are shown in the video. 
 Remember the below points when you make this complete website. </p>

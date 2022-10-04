@@ -50,6 +50,6 @@ HOSTED LINK :
 
 <hr>
 
-### Project 6-304-01
+### Project 6-304-06
 
 ![Card](https://user-images.githubusercontent.com/113756096/192528993-fe0d0e1a-2632-4f78-88f6-8004e0380c35.png)

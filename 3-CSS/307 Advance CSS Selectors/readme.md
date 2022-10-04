@@ -1,8 +1,8 @@
-# Projects-307-01
+# Projects
 
 ## Class Projects
 
-#### Project 1
+#### Project 1-307-01
 
 ![image](https://user-images.githubusercontent.com/113756096/192532080-ad708dbf-3ef5-4e0f-beaf-ee891079ed7e.png)
 
@@ -11,7 +11,7 @@
 
 ## Homework Projects
 
-#### Project 1
+#### Project 2-307-02
 
 <p> You can find this website on the link https://gaana.com/artist/raftaar . 
 Please make sure to add the below functionalities to your webpage. </p>
