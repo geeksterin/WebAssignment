@@ -1,4 +1,4 @@
-# Mini Project: World Countries Data Visualization
+# Mini Project: World Countries Data Visualization AdvanceJS-405-01
 
 <hr>
 
@@ -10,9 +10,9 @@ The data is given to you in countries_data.js file so, try your hands on this pr
 
 <hr> 
 
-## Exercises
+## Exercises AdvanceJS-405
 
-### Exercise: Level 1
+### Exercise: AdvanceJS-405-02
 
 1. Visualize the ten most populated countries and the ten most spoken languages in the world using DOM(HTML, CSS, JS)
 

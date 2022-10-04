@@ -1,8 +1,8 @@
-# A few engaging projects to hone your skill
+# A few engaging projects to hone your skill AdvanceJS-410
 
 <hr>
 
-## 1. Github Finder
+## 1. Github Finder AdvanceJS-410-01
 
 Do you want to stalk your friends on github? This app does that for you!
 
@@ -16,7 +16,7 @@ feel free to explore this API refer this documentation [Click me👆](https://do
 
 <hr>
 
-## 2. Dictionary app 
+## 2. Dictionary app AdvanceJS-410-02
 
 You have to build a web application that allows users to look up a word's definition using the Merriam-Webster API. It retrieves both the word's pronunciation and its definition.
 
@@ -28,7 +28,7 @@ feel free to explore this API refer this documentation [Click me👆](https://ww
 
 <hr>
 
-## 3. Meal finder
+## 3. Meal finder AdvanceJS-410-03
 
 You need to use Vanilla Javascript and the MealDB API to construct an online recipe search application.
 
@@ -40,7 +40,7 @@ feel free to explore this API refer this documentation [Click me👆](https://ww
 
 <hr>
 
-## 4. Real-time Weather app
+## 4. Real-time Weather app AdvanceJS-410-04
 
 For getting meteorological information, you can use the Dark Sky API, it is a terrific opportunity for you to learn how to communicate with APIs, which is another great thing you can do with JavaScript. 
 
@@ -50,7 +50,7 @@ feel free to explore this API refer this documentation [Click me👆](https://op
 
 ![](./image/weather.jpg)
 
-## 5. Random Quote Generator Using HTML, CSS, and JavaScript
+## 5. Random Quote Generator Using HTML, CSS, and JavaScript AdvanceJS-410-05
 
 fetch the data from API and then display the quotes in card format.
 

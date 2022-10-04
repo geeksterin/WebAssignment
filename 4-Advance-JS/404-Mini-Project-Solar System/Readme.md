@@ -1,4 +1,4 @@
-# Mini Project: Solar System
+# Mini Project: Solar System AdvanceJS-404-01
 
 <hr>
 
@@ -17,7 +17,7 @@ So, don't be afraid to try it.
 
 # Day 04
 
-## Exercises
+## Exercises AdvanceJS-404-02
 
 
 1. Develop a small application which calculate a weight of an object in a certain planet. 
