@@ -1,5 +1,4 @@
 # Git Basics Exercises - 1
-
 - Initialize an empty git repository.
 - Create a file named first.txt.
 - Add first.txt to the staging area.

@@ -15,7 +15,7 @@ There is a parent directory called Geekster1, and inside of it are four more dir
 2. use the command line to move the file ```index.html``` from the ```\Geekster1\Html``` directory to the ```\Geekster1\React``` directory.
 
 ```
-Geekster
+Geekster1
 │   
 └─── Css
 │
@@ -80,8 +80,8 @@ Geekster2
 
 ##### Answer: 
 ```
-    mkdir Geekster
-    cd Geekster
+    mkdir Geekster2
+    cd Geekster2
     mkdir React
     mkdir Angular
     cd React
