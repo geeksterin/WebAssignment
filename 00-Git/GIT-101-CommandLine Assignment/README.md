@@ -43,7 +43,7 @@ Geekster1
 
     // create the file index.html in Html folder
 
-    mv img.html ../React/
+    mv index.html ../React/
 ```
     
 </p>
@@ -79,7 +79,7 @@ Geekster2
 <p>
 
 ##### Answer: 
-```
+```sh
     mkdir Geekster2
     cd Geekster2
     mkdir React
