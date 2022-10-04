@@ -33,19 +33,19 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-
 
 ## Homework Projects
 
-#### Project 1
+#### Project 7-305-07
 
 <img src="images/boat.png">
 
-#### Project 2
+#### Project 8-305-08
 
 <img src="images/whiskers.in.png">
 
-#### Project 3
+#### Project 9-305-09
 
 <img src="images/solesearchindia.png">
 
-#### Project 4
+#### Project 10-305-10
 
 <img src="images/almamaterstore.png">
 

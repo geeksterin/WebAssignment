@@ -2,7 +2,7 @@
 
 ## Class Projects
 
-#### Project 1
+#### Project 1-309-01
 
 Go on this link and solve the challenges
 

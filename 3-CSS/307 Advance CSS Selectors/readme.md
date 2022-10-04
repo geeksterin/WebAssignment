@@ -11,7 +11,7 @@
 
 ## Homework Projects
 
-#### Project 1
+#### Project 2-307-02
 
 <p> You can find this website on the link https://gaana.com/artist/raftaar . 
 Please make sure to add the below functionalities to your webpage. </p>

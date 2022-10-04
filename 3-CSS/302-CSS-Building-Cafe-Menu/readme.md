@@ -1,4 +1,4 @@
-# Project : Freecodecamp : Building Cafe Menu-302-01
+# Project : Freecodecamp : Building Cafe Menu-CSS-302-01
 
 ## Preview
 
@@ -11,3 +11,8 @@ Submission Link : [Building Cafe Menu](https://www.freecodecamp.org/learn/2022/r
 - Complete the project on freecodecamp
 - Copy the code to this repository
 - Host the project and provide the link in this README file
+
+# INSTRUCTIONS
+
+- Complete all above assignments in their respective folders
+- Html should be in `index.html` file and styling should be in `style.css` file

@@ -23,7 +23,7 @@ Go on this link and solve the challenges https://www.freecodecamp.org/learn/2022
 
 ## Homework Projects
 
-#### Project 1
+#### Project 4-306-04
 
 <img src="images/raftaarmusic.png">
 
@@ -32,25 +32,25 @@ Go on this link and solve the challenges https://www.freecodecamp.org/learn/2022
 
 ## Additional Projects for practice
 
-#### Project 1
+#### Project 5-306-05
 
 <img src="images/minecraft.png">
 
 <hr>
 
-#### Project 2
+#### Project 6-306-06
 
 <img src="images/Burgersingh.png">
 
 <hr>
 
-#### Project 3
+#### Project 7-306-07
 
 <img src="images/BantaiRecords.png">
 
 <hr>
 
-#### Project 4
+#### Project 8-306-08
 
 <img src="images/tiktok.png">
 
