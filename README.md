@@ -8,19 +8,19 @@ How to use this repository
 - Clone Repository to Local Machine
 - Make some change and enjoy your first website
 - Fill the given form - [Github repo, Free Code Camp]
-
 # Git
 
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
-| 1     | GIT   | [COMMAND LINE](./00-Git/GIT-101-CommandLine%20Assignment/) | NA
-| 2     | GIT   | [GIT PRACTICE](./00-Git/GIT-102-GIT-PRACTICE/)            |             |
+| 1     | GIT   | [COMMAND LINE](./00-Git/GIT-001-COMMANDLINE/ )            | NA          |
+| 2     | GIT   | [GIT-002-01](./00-Git/GIT-002-GIT-PRACTICE/)              |             |
+| 2     | GIT   | [GIT-002-02](./00-Git/GIT-002-GIT-PRACTICE/)              |             |
 
 # JS Basics
 
-| S No. | Topic     | Assignment                                | FreeCodeCamp Id |
-| ----- | --------- | ----------------------------------------- | --------------- |
-| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |                 |
+| S No. | Topic     | Assignment                                | FreeCodeCamp Id | Question Done Till Now |
+| ----- | --------- | ----------------------------------------- | --------------- | --------------- |
+| 1     | JS Basics | [JS BASIC Question List](./01-JS-BASICS/) |                 |                 |
 
 # HTML
 
