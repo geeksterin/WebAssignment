@@ -50,14 +50,14 @@ How to use this repository
 
 | S No. | Topic | Assignment                                                                | Hosted Link |
 | ----- | ----- | ------------------------------------------------------------------------- | ----------- |
-| 1     | JS    | [DOM-MANIPULATION-1](./04-Advance-JS/301-DOM-Manipulation/)               |             |
-| 2     | JS    | [DOM-MANIPULATION-2](./04-Advance-JS/302-DOM-Manipulation/)               |             |
-| 3     | JS    | [EVENT-LISTNERS](./04-Advance-JS/303-event-listeners/)                    |             |
-| 4     | JS    | [MINI-PROJECT](./04-Advance-JS/304-Mini-Project-Solar%20System/)          |             |
-| 5     | JS    | [WORLD-COUNTRIES](./04-Advance-JS/305-WorldCountries-Data-Visualization/) |             |
-| 6     | JS    | [DOM-VISUALATION](./04-Advance-JS/306-Data-visualization/)                |             |
-| 7     | JS    | [EMOJI-SEARCH](./04-Advance-JS/307-Emoji-search/)                         |             |
-| 8     | JS    | [LEADERBOARD](./04-Advance-JS/308-leaderboard/)                           |             |
-| 9     | JS    | [FROM-VALIDATION](./04-Advance-JS/309-form-validation/)                   |             |
-| 10    | JS    | [PROJECTS](./04-Advance-JS/310-Projects/)                                 |             |
-| 11    | JS    | [CRYPTO-VIEW](./04-Advance-JS/311-crypto-view/)                           |             |
+| 1     | JS    | [DOM-MANIPULATION-1](./4-Advance-JS/401-DOM-Manipulation/)               |             |
+| 2     | JS    | [DOM-MANIPULATION-2](./4-Advance-JS/402-DOM-Manipulation/)               |             |
+| 3     | JS    | [EVENT-LISTNERS](./4-Advance-JS/403-Event-Listeners/)                    |             |
+| 4     | JS    | [MINI-PROJECT](./4-Advance-JS/404-Mini-Project-Solar%20System/)          |             |
+| 5     | JS    | [WORLD-COUNTRIES](./4-Advance-JS/405-WorldCountries-Data-Visualization/) |             |
+| 6     | JS    | [DOM-VISUALATION](./4-Advance-JS/406-Data-visualization/)                |             |
+| 7     | JS    | [EMOJI-SEARCH](./4-Advance-JS/407-Emoji-search/)                         |             |
+| 8     | JS    | [LEADERBOARD](./4-Advance-JS/408-leaderboard/)                           |             |
+| 9     | JS    | [FROM-VALIDATION](./4-Advance-JS/409-form-validation/)                   |             |
+| 10    | JS    | [PROJECTS](./4-Advance-JS/410-Projects/)                                 |             |
+| 11    | JS    | [CRYPTO-VIEW](./4-Advance-JS/411-crypto-view/)                           |             |
