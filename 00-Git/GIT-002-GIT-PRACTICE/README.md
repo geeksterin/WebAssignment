@@ -1,4 +1,4 @@
-# Git Basics Exercises - 1
+# GIT-002-01
 - Initialize an empty git repository.
 - Create a file named first.txt.
 - Add first.txt to the staging area.
@@ -15,11 +15,11 @@
 - Push your code to same repository
 - Host the repository on github pages and attach the link here
 
-# Hosted link
 
-# Git Basics Exercises - 2
 
-- Fork a repo - https://bitz1119.github.io/very-basic-resume/
+# GIT-001-02
+
+- Fork a repo - https://github.com/bitz1119/very-basic-resume
 - Clone the website
 - Change name from "Bittoo Aggarwal" to (your name) in index.html
 - Add your changes to git

@@ -1,4 +1,4 @@
-# Git Basics Exercises
+# GIT-001-01
 - Create a folder called learn_with_geekster.
 - cd into the learn_with_geekster folder.
 - Create a file called first.txt.
@@ -7,8 +7,7 @@
 
 <hr>
 
-# Git Exercises-2
-
+# GIT-001-02
 1. Create the folder hierarchy shown below using command line. 
 There is a parent directory called Geekster1, and inside of it are four more directories named HTML, CSS, Javascript, and React.
 2. Create a  file ```index.html``` in ```\Geekster1\Html``` 
@@ -51,7 +50,7 @@ Geekster1
 
 </details>
 
-# Git Exercises-3
+# GIT-001-03
 
 1. Create the folder hierarchy shown below using command line. Below is a breakdown of the folder structure. Geekster2, the parent directory, contains the directories React and Angular.
 2. Create ```f1.txt``` file in TS folder as shown below.
