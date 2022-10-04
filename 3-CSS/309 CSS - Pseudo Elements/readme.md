@@ -1,8 +1,9 @@
-# Projects
+# Projects-309-01
 
 ## Class Projects
 
 #### Project 1
+
 Go on this link and solve the challenges
 
 https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-css-pseudo-selectors-by-building-a-balance-sheet/step-1
@@ -10,4 +11,3 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-c
 <br>
 
 <img src="./images/Freecodecamp%20Website.png">
-
