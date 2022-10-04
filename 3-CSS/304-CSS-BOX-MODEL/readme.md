@@ -1,4 +1,4 @@
-# Projects-304-01
+# Projects 1-304-01
 
 <hr>
 <hr>
@@ -23,19 +23,19 @@ HOSTED LINK :
 
 <hr>
 
-### Project 2
+### Project 2-304-02
 
 ![Subscribe Card](https://user-images.githubusercontent.com/113756096/192524752-74a23df5-bf62-4381-a77f-98b1b82d9da1.png)
 
 <hr>
 
-### Project 3
+### Project 3-304-03
 
 ![image](https://user-images.githubusercontent.com/113756096/192526999-b48251c5-a39e-4d08-95b2-d8b57c297d84.png)
 
 <hr>
 
-### Project 4
+### Project 4-304-04
 
 ![image](https://user-images.githubusercontent.com/113756096/192527908-b3f001be-1d53-4827-ab6e-a9b8e0dd6133.png)
 
@@ -44,12 +44,12 @@ HOSTED LINK :
 
 ## Homework Projects
 
-### Project 1
+### Project 5-304-05
 
 ![Submerge Signup_Box model](https://user-images.githubusercontent.com/113756096/192528710-2147b977-daa3-4f2c-a25b-57fe46243e66.png)
 
 <hr>
 
-### Project 2
+### Project 6-304-01
 
 ![Card](https://user-images.githubusercontent.com/113756096/192528993-fe0d0e1a-2632-4f78-88f6-8004e0380c35.png)
