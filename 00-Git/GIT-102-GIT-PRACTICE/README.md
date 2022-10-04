@@ -16,11 +16,22 @@
 - Push your code to same repository
 - Host the repository on github pages and attach the link here
 
-# Hosted link :
+# Hosted link
 
 # Git Basics Exercises - 2
 
-- Fork a website - https://github.com/ritikmasand/portfolio
+- Fork a repo - https://github.com/ritikmasand/portfolio
 - Clone the website
+- Change name from "Ritik Masand" to (your name)
+- Take the screenshot of the change done
+- Put that screenshot in the forked folder
+- Add your changes to git
+- Commit your changes to git
+- Push the code on github
+- For details plese watch :
+
+# Git Basics Exercises - 3
+
+- get back to thr forked repo
 - Host on github pages
 - Add the link to [README.md](../../README.md) hosted link section
