@@ -26,7 +26,7 @@ How to use this repository
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | HTML  | [HTML RESUME](./02-HTML/101-HTML-RESUME)                |             |
+| 1     | HTML  | [HTML RESUME](./02-HTML/101-HTML-RESUME) HTML-201-01              |             |
 | 2     | HTML  | [HTML FORM](./02-HTML/102-HTML-FORM/)                   |             |
 | 3     | HTML  | [HTML PHOTO CAT APP](./02-HTML/103-HTML-Photo-Cat-App/) |             |
 | 4     | HTML  | [HTML TRIBUTE PAGE](./02-HTML/104-HTML-TRIBUTE-PAGE/)   |             |

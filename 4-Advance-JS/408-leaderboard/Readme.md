@@ -35,14 +35,7 @@ you have to implement the following four main tasks:
 <hr>
 
 # steps to submit your assignments
-
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
-
-<hr>
-
-HOSTED LINK :  
-
-<hr>
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
 
