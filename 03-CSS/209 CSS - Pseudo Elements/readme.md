@@ -9,6 +9,5 @@ https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-more-about-c
 
 <br>
 
-<img src="https://github.com/geeksterin/web-assignment/blob/main/02-CSS/211%20CSS%20-%20Pseudo%20Elements/images/Freecodecamp%20Website.png">
+<img src="./images/Freecodecamp%20Website.png">
 
-#### Project 2

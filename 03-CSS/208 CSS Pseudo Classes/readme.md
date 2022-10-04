@@ -1,8 +1,5 @@
 # Projects
 
-<hr>
-<hr>
-
 ## Class Projects
 
 #### Project 1
