@@ -19,18 +19,11 @@
 
 # Git Basics Exercises - 2
 
-- Fork a repo - https://github.com/ritikmasand/portfolio
+- Fork a repo - https://bitz1119.github.io/very-basic-resume/
 - Clone the website
-- Change name from "Ritik Masand" to (your name)
-- Take the screenshot of the change done
-- Put that screenshot in the forked folder
+- Change name from "Bittoo Aggarwal" to (your name) in index.html
 - Add your changes to git
 - Commit your changes to git
 - Push the code on github
-- For details plese watch :
-
-# Git Basics Exercises - 3
-
-- get back to thr forked repo
 - Host on github pages
-- Add the link to [README.md](../../README.md) hosted link section
+- Add the link to ```../../README.md``` hosted link section
