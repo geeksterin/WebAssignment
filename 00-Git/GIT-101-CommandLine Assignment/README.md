@@ -35,7 +35,7 @@ Geekster1
 ##### Answer: 
 ```sh
     mkdir Geekster1
-    cd Geekster
+    cd Geekster1
     mkdir Html
     mkdir CSS
     mkdir JavaScript
