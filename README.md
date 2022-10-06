@@ -7,6 +7,7 @@ How to use this repository
 - Check if the repo is working
 - Clone Repository to Local Machine
 - Make some change and enjoy your first website
+- Fill the given form where you have your assignment - https://forms.gle/pqMfKhmxnSHZiwBTA
 
 # Git
 
