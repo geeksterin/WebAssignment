@@ -14,8 +14,8 @@ How to use this repository
 | S No. | Topic | Assignment                                                | Hosted Link |
 | ----- | ----- | --------------------------------------------------------- | ----------- |
 | 1     | GIT   | [COMMAND LINE](./0-Git/GIT-001-COMMANDLINE/ )            | NA          |
-| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |          |
-| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |           |
+| 2     | GIT   | [GIT-002-01](./0-Git/GIT-002-GIT-PRACTICE/)              |https://github.com/VIJENDRASANODIYA/WebAssignment/commit/d1adb62db9d8c5bc0715c1e974753fc09d76b4bd          |
+| 2     | GIT   | [GIT-002-02](./0-Git/GIT-002-GIT-PRACTICE/)              |       https://github.com/VIJENDRASANODIYA/WebAssignment/commit/d1adb62db9d8c5bc0715c1e974753fc09d76b4bd    |
 
 # JS Basics
 
