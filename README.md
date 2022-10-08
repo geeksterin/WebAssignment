@@ -27,7 +27,7 @@ How to use this repository
 
 | S No. | Topic | Assignment                                              | Hosted Link |
 | ----- | ----- | ------------------------------------------------------- | ----------- |
-| 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |             |
+| 1     | HTML  | [HTML RESUME](./2-HTML/201-HTML-RESUME) HTML-201-01              |    https://vijendrasanodiya.github.io/WebAssignment/index.html         |
 | 2     | HTML  | [HTML FORM](./2-HTML/202-HTML-FORM/)  HTML-202-01                 |             |
 | 3     | HTML  | [HTML PHOTO CAT APP](./2-HTML/203-HTML-Photo-Cat-App/) HTML-203-01  |             |
 | 4     | HTML  | [HTML TRIBUTE PAGE](./2-HTML/204-HTML-TRIBUTE-PAGE/) HTML-204-01   |             |
