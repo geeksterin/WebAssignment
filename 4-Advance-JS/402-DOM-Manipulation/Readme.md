@@ -20,7 +20,7 @@
 
 <hr>
 
-## Exercises AdvanceJS-402-02
+## Exercises AdvanceJS-402-03
 3. Lets make a simple shopping list example that allows you to dynamically add items to the list using a form input and button. When you add an item to the input and press the button:
  
 - The item should appear in the list.
