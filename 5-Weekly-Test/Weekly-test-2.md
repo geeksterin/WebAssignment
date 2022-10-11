@@ -3,31 +3,23 @@
 ### - An answer folder has been given to you below where you will be answering all the question
 ### - Do mention all the steps which you took to reach the final answer.
 
-1.Explain function hoisting in JavaScript?
-Ans:
+# Question 1.
+Explain function hoisting in JavaScript?
+ 
 
-2. How to get the primitive value of a string in Javascript?
-Ans:
-
-3.What is the Output of following code & explain (1) & (2).
+# Question 2. 
+How to get the primitive value of a string in Javascript?
 
 
- function sum(){
-  return arguments.reduce((a, b) => a + b);
-}
+# Question 3.
+The following recursive code will cause a stack overflow if the array list is too large. How can you fix this and still retain the recursive pattern?
 
-console.log(sum(1,2,3)); (1)
+![alt text](../Images/output1.png)
 
-function sum(...arguments){
-  return arguments.reduce((a, b) => a + b);
-}
 
-console.log(sum(1,2,3)); (2)
-
-Ans:
-
-4.Make a signup form using Html, Css & Js.
--Please refer to this image below:
+# Question 4.
+Make a signup form using Html, Css & Js.
+# -Please refer to this image below:
 
 ![alt text](../Images/js-test-form.png)
 
