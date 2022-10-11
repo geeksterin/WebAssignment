@@ -3,23 +3,23 @@
 ### - An answer folder has been given to you below where you will be answering all the question
 ### - Do mention all the steps which you took to reach the final answer.
 
-Question 1.
+# Question 1.
 Explain function hoisting in JavaScript?
  
 
-Question 2. 
+# Question 2. 
 How to get the primitive value of a string in Javascript?
 
 
-Question 3.
+# Question 3.
 The following recursive code will cause a stack overflow if the array list is too large. How can you fix this and still retain the recursive pattern?
 
 ![alt text](../Images/output1.png)
 
 
-Question 4.
+# Question 4.
 Make a signup form using Html, Css & Js.
--Please refer to this image below:
+# -Please refer to this image below:
 
 ![alt text](../Images/js-test-form.png)
 
