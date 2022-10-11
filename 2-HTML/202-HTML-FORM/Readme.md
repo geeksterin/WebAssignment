@@ -1,4 +1,4 @@
-# Assignment 202-01
+# Assignment HTML-202-01
 
 This is your assignment 2, where you have to make your form to take personal detail of user
 

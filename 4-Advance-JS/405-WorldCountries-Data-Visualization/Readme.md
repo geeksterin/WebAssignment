@@ -10,10 +10,6 @@ The data is given to you in countries_data.js file so, try your hands on this pr
 
 <hr> 
 
-## Exercises AdvanceJS-405
-
-### Exercise: AdvanceJS-405-02
-
 1. Visualize the ten most populated countries and the ten most spoken languages in the world using DOM(HTML, CSS, JS)
 
 ![Bar Graph](./image/dom_min_project_bar_graph_day_5.1.gif)
@@ -26,8 +22,3 @@ The data is given to you in countries_data.js file so, try your hands on this pr
 - Host the assignments.
 - Provide the link below👇.
 
-<hr>
-
-HOSTED LINK :  
-
-<hr>

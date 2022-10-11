@@ -6,6 +6,8 @@
 
 <hr>
 
+
+## Exercises AdvanceJS-403-02
 2. In order for this website to function, there are a number of buttons on the page that represent the various drums in a standard drum set, and when you click on any of those buttons, the accompanying drum sound will play. 
 Additionally, you can create sound effects using the keyboard's keys.
 
@@ -17,7 +19,9 @@ After completing this project, you will not only have a better understanding of 
 
 <hr>
 	
-3. Tip Calculator
+
+## Exercises AdvanceJS-403-03
+Tip Calculator
 
 With this tip calculator, you won’t have to look around the table to determine who’s responsible for the tip. This tip Calculator is made with JavaScript, HTML, and CSS to help you figure out how much to tip at restaurants when the need arises. 
 (total = (billAmount*serviceQuality)/ numPeople)
@@ -28,12 +32,9 @@ With this tip calculator, you won’t have to look around the table to determine
 
 # steps to submit your assignments
 
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
 
 <hr>
 
-HOSTED LINK :  
-
-<hr>

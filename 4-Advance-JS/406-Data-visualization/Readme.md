@@ -11,24 +11,13 @@ You are becoming better every day, so let's explore how to view the array now. I
 
 So go ahead and attempt this thing.
 
-<hr> 
-
-## Exercises AdvanceJS-406
-
-### Exercise: AdvanceJS-406-02
 
 1. Visualize the countries array as follows
 
 ![Motivation](./image/dom_mini_project_countries_day_6.1.gif)
 
-# steps to submit your assignments
+# Steps to submit your assignments
 
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
-
-<hr>
-
-HOSTED LINK :  
-
-<hr>
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
