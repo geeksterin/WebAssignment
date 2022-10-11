@@ -1,4 +1,4 @@
-# Cryptoview-project AdvanceJS-411-01
+## 1.Cryptoview-project AdvanceJS-411-01
 
 [To see the app in working click here](https://aayusharyan.github.io/cryptoview-project/)
 
@@ -13,6 +13,10 @@
 ![](./image/crypto-3.png)
 
  <hr>
+
+ ## 2. Chrome Extension JavaScript AdvanceJS-411-02
+ 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1638008042438/Ry2d0LnV7.png?auto=compress,format&format=webp)
  
  # Steps to submit your assignments
 
