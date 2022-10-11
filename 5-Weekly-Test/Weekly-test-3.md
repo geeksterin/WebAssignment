@@ -1,5 +1,9 @@
 # Weekly-Test-3
 
+### - An answer folder has been given to you below where you will be answering all the question
+
+### - Do mention all the steps which you took to reach the final answer.
+
 # Question 1
 
 ### How many alert dialogs will the following Javascript generate, and what will be displayed in each of them?
