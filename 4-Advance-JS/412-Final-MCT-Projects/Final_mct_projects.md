@@ -4,7 +4,7 @@
 
 
 
-## Project CSS-412-01
+## Project Advance Js-412-01
 
 ### Typing Speed Test Website - Typing speed test is a game where you can check
 - Your typing speed like WPM (Word Per Minute), 
@@ -15,7 +15,7 @@
    link: https://typingtesting.netlify.app/ 
 
 
-## Project CSS-412-02
+## Project Advance Js-412-02
 
 ### Movie Ticket Website - Display movie choices and seats in a theater to select from in order to purchase tickets.
 - Display UI with movie select, screen, seats, legend & seat info.
@@ -28,7 +28,7 @@
 Link: https://reverent-bose-df2ec0.netlify.app/
 
  
-## Project CSS-412-03
+## Project Advance Js-412-03
 
 ### News Website - Developed a News App Application with the newsApi. The News API is a really powerful database that lets you gather JSON data for news articles all over the web.
 - Display UI with category , side navbar, news card.
@@ -38,8 +38,14 @@ Link: https://reverent-bose-df2ec0.netlify.app/
 
 Link: https://inshorts-react-clone.netlify.app/
  
+  
+ 
+ 
+## Project Advance Js-412-04
 
+### snake game with the ease of HTML, CSS, and Javascript. Building this game will push you to boost your web development skills. It's very easy to make this game just by using the right tools at the right time. We will use sounds, animations, user input like upward, downward keys, etc.
 
+Link : https://snakegamewebjs.netlify.app/
 # INSTRUCTIONS
 - Complete all above assignments in their respective folders
 - Html should be in ```index.html``` file and styling should be in ```style.css``` file

@@ -14,10 +14,6 @@
 
  <hr>
 
- ## 2. Chrome Extension JavaScript AdvanceJS-411-02
- 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1638008042438/Ry2d0LnV7.png?auto=compress,format&format=webp)
- 
  # Steps to submit your assignments
 
 - Complete the assignments listed above in respective folders.
