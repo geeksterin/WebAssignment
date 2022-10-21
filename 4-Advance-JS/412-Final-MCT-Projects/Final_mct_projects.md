@@ -37,6 +37,7 @@ Link: https://reverent-bose-df2ec0.netlify.app/
 - key visit newsapi.org and create your id.
 
 Link: https://inshorts-react-clone.netlify.app/
+API: https://newsapi.org/
  
   
  
@@ -57,6 +58,7 @@ Link : https://global-asp.github.io/imagebank/
 - Just type a keyword into the search box. then you get to know which domain us available.
 
 Link : https://arbazalam01.github.io/DomainSearch
+API : 'https://www.namecheap.com/domains/registration/results/?domain='
 
 ## Project Advance Js-412-06
 
@@ -64,6 +66,7 @@ Link : https://arbazalam01.github.io/DomainSearch
 - This application will be able to load questions from a 3rd party API, track and display high scores, and so much more! 
 
 Link : https://safdarjamal.github.io/quiz-app/
+API :https://opentdb.com/api_config.php
 
 
 # INSTRUCTIONS
