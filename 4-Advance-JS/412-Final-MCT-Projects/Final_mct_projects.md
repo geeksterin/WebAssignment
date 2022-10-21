@@ -40,12 +40,32 @@ Link: https://inshorts-react-clone.netlify.app/
  
   
  
- 
+
+
 ## Project Advance Js-412-04
 
-### snake game with the ease of HTML, CSS, and Javascript. Building this game will push you to boost your web development skills. It's very easy to make this game just by using the right tools at the right time. We will use sounds, animations, user input like upward, downward keys, etc.
+### Image Search Application: Build a image search application using Html, Css and JavaScipt (text to image).
+- Just type a keyword into the search box. 
+- Try a few simple words like "bird", "cat", "tree", "lion", or "river" to get a sense of what sort of images can be found.
 
-Link : https://snakegamewebjs.netlify.app/
+Link : https://global-asp.github.io/imagebank/
+
+
+## Project Advance Js-412-05
+
+### Domain Search Application:  Build a domain search application using API.
+- Just type a keyword into the search box. then you get to know which domain us available.
+
+Link : https://arbazalam01.github.io/DomainSearch
+
+## Project Advance Js-412-06
+
+### Quiz Application:  Build a quiz application. 
+- This application will be able to load questions from a 3rd party API, track and display high scores, and so much more! 
+
+Link : https://safdarjamal.github.io/quiz-app/
+
+
 # INSTRUCTIONS
 - Complete all above assignments in their respective folders
 - Html should be in ```index.html``` file and styling should be in ```style.css``` file
