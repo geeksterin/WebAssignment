@@ -18,12 +18,7 @@ The creation of an emoji search application is our upcoming challenge.
 
 # steps to submit your assignments
 
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
 
-<hr>
-
-HOSTED LINK :  
-
-<hr>

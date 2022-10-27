@@ -1,10 +1,10 @@
 ## Exercise: AdvanceJS-401-01
 
-1. You are given a DOM element
+1. Create input element and whatever text written in input must be displayed into the p tag 
 
 ```html
+<input type="text" />
 <p class="wrote"></p>
-<input type="text" />.
 ```
 
 Your job is output what ever is typed in the input into the p tag.
@@ -20,7 +20,7 @@ Your job is output what ever is typed in the input into the p tag.
 	<ul class="has-children"></div>.
 ```
 
-Your job is to give the first child a blue background, the last child a palevioletred background and the 9th child a green background. Then make all of the even numbers lime.
+Your job is to give the first child a blue background, the last child a palevioletred background and the 9th child a green background. Then make all of the even numbers lime using DOM Manipulation.
 ![](./image/ex-2.png)
 
 <hr>
@@ -37,7 +37,8 @@ An Image Slider that comprises several images displayed on a web application is 
 
 ## steps to submit your assignments
 
-- Complete the assignments listed above.
+- Complete the assignments listed above in their respective folder.
+- Push the assignent.
 - Host the assignments.
 - Provide the link below👇.
 

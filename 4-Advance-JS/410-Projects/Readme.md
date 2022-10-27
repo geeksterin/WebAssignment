@@ -56,23 +56,20 @@ fetch the data from API and then display the quotes in card format.
 
 API- https://api.quotable.io/random 
 
--https://type.fit/api/quotes
+- https://type.fit/api/quotes
   
  feel free to explore this API refer this documentation [Click me👆](https://github.com/lukePeavey/quotable)
  
 ![](./image/quote.png)
 
-<hr>
 
-# steps to submit your assignments
-
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
 
 <hr>
 
-HOSTED LINK :  
+# Steps to submit your assignments
 
-<hr>
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
+
 

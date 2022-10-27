@@ -1,5 +1,3 @@
-# Mini Project: Solar System AdvanceJS-404-01
-
 <hr>
 
 Dear Geeks!👋 
@@ -11,27 +9,15 @@ So, don't be afraid to try it.
 
 <hr>
 
-- [Day 04](#day-04)
- - [Exercises](#exercises)
-
-
-# Day 04
-
-## Exercises AdvanceJS-404-02
+## Exercises AdvanceJS-404-01
 
 
 1. Develop a small application which calculate a weight of an object in a certain planet. 
 
 ![Solar System](./image/dom_min_project_solar_system_day_4.1.gif)
 
-# steps to submit your assignments
+# Steps to submit your assignments
 
-- Complete the assignments listed above.
-- Host the assignments.
-- Provide the link below👇.
-
-<hr>
-
-HOSTED LINK :  
-
-<hr>
+- Complete the assignments listed above in respective folders.
+- Push the assignments.
+- Add the link in ```./../README.md``` 
