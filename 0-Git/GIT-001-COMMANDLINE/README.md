@@ -5,6 +5,8 @@
 - Put your name in first.txt
 - Display the file content in terminal
 
+### you have to write these command and take the screenshot of your terminal and upload it as your answer
+
 <hr>
 
 # GIT-001-02
