@@ -1,1 +1,18 @@
 /* start your css here */
+body{
+      padding: 20px;
+}
+
+.box{
+    display:block;
+    height:600px;
+    width:550px;
+    padding: 20px;
+    background-color: black;
+    color:antiquewhite;
+}
+.input{
+    width: 400px;
+    font-size: large;
+    font-weight: 900;
+}
