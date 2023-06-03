@@ -27,3 +27,5 @@
 - Push the code on github
 - Host on github pages
 - Add the link to ```../../README.md``` hosted link section
+
+https://atchyuttholada.github.io/very-basic-resume/
